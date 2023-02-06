@@ -1,7 +1,7 @@
 /* Universal Styles */
 
 body {
-    background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_foodlogo.png");
+    background-image: url("images/htmlcss1-img_foodlogo.webp");
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -56,7 +56,7 @@ body {
   /* Content Header */
   
   .header {
-    background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg");
+    background-image: url("images/htmlcss1-img_burgerphoto.webp");
     background-position: center;
     background-size: cover;
     height: 320px;
