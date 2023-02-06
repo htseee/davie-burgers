@@ -12,27 +12,36 @@ body {
   }
   
   /* Navigation */
-  
+
   nav {
-    text-align: center;
+    text-align: right; 
+    /* display: block; */
+    overflow: hidden;
+    /* height: 60px;
+    line-height: 60px; */
   }
   
   nav img {
-    display: block;
+    /* display: block; */
     width: 180px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    float: left;
   }
   
   nav span {
-    display: block;
+    /* display: block; */
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 2px;
     margin: 10px 0px;
+    /* text-align: center; */
+    /* height: 80px; */
   }
   
   nav a {
     color: #666666;
+    height: 60px;
+    line-height: 60px;
   }
   
   /* Content Container */
